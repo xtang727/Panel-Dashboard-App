@@ -1,0 +1,7 @@
+datashader
+holoviews
+hvplot
+panel
+param
+streamz
+jupyter
